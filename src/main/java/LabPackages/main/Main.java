@@ -10,8 +10,8 @@ public class Main {
         ClassTwo c2 = new ClassTwo();
         ClassThree c3 = new ClassThree();
 
-        c1.greet();
-        c2.greet();
-        c3.greet();
+        System.out.println(c1.greet());
+        System.out.println(c2.greet());
+        System.out.println(c3.greet());
     }
 }
