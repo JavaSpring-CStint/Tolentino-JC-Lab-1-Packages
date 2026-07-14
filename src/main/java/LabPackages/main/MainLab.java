@@ -4,7 +4,7 @@ import LabPackages.packageone.ClassOne;
 import LabPackages.packagetwo.ClassTwo;
 import LabPackages.packagethree.ClassThree;
 
-public class Main {
+public class MainLab {
     public static void main(String[] args) {
         ClassOne c1 = new ClassOne();
         ClassTwo c2 = new ClassTwo();
