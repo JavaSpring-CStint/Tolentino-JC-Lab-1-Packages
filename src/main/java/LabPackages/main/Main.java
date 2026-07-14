@@ -1,4 +1,4 @@
-package org.example;
+package LabPackages.main;
 
 
 // Import here manually

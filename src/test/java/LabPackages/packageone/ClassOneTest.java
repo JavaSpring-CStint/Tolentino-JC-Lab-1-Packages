@@ -1,4 +1,4 @@
-package org.example.packageone;
+package LabPackages.packageone;
 
 import org.example.packagethree.ClassThree;
 import org.example.packagetwo.ClassTwo;
